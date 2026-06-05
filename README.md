@@ -1,25 +1,49 @@
-# DecodeLabs-Internship
-# DecodeLabs Internship Portfolio
+# 🎨 Static Portfolio Website
 
-Welcome to my DecodeLabs Internship Portfolio.
+A clean and modern personal portfolio website built using HTML and CSS. This project focuses on creating a well-structured static webpage with semantic HTML and attractive styling.
 
-This repository contains all projects completed during my internship journey, including Frontend Development, Responsive Web Design, AI Projects, and other technical assignments.
+## 🚀 Features
 
-## Projects
+- Modern Hero Section
+- About Me Section
+- Skills Showcase
+- Project Cards
+- Contact Information
+- Hover Effects
+- Responsive Typography
+- Clean UI Design
 
-### Frontend Development
+## 🛠 Technologies Used
 
-* Project 1: Static Webpage Design
-* Project 2: Responsive Web Layout
+- HTML5
+- CSS3
+- Google Fonts
 
-### Upcoming Projects
+## 📂 Project Structure
 
-* AI-Based Applications
-* Full Stack Projects
-* Industry Assignments
+project-1/
+│
+├── index.html
+├── style.css
+├── images/
+└── README.md
 
-## About Me
+## 🎯 Learning Outcomes
 
-I am Ishika Sarkar, a student passionate about Web Development, Artificial Intelligence, and Software Engineering. This repository documents my learning journey and project work completed during the DecodeLabs Internship Program.
+- Semantic HTML Structure
+- CSS Styling Fundamentals
+- Flexbox Layout
+- Box Model
+- Typography and Spacing
 
-Thank you for visiting my portfolio.
+## 📸 Preview
+
+Add a screenshot here after deployment.
+
+## 🌐 Live Demo
+
+[View Website](YOUR_LIVE_LINK_HERE)
+
+## 👨‍💻 Author
+
+Ishika
